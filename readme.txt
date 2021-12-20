@@ -1,2 +1,2 @@
-readme
+nano readme readme
 
